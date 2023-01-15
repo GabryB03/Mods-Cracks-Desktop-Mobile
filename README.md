@@ -14,15 +14,17 @@
 * [Skidrow Games](https://skidrow-games.com/)
 * [Small Games](https://small-games.info/)
 * [Full Programlar Indir](https://www.fullprogramlarindir.net/)
-* [Ocean Of Games](https://oceanofgames.com/)
+* [Ocean Of Games](http://oceanofgames.com/)
 * [Cracked Games](https://cracked-games.org)
 # Mods for Android
 * [WhatsAero](https://whatsaero.com/)
 * [AeroInsta](https://aeroinsta.com/)
 * [AeroWitter](https://aerowitter.com/)
 * [YouTube ReVanced](https://revanced.io/)
+* [XManager (Spotify)](https://xmanagerapp.com/)
 # Mods for PC
 * [Kotatogram](https://kotatogram.github.io/)
+* [Unigram](https://github.com/UnigramDev/Unigram/releases/)
 # Cracks & Mods for Mobile apps
 * [BlackMod](https://blackmod.net/forums/3/)
 * [ApkMody](https://apkmody.io/)
@@ -36,6 +38,8 @@
 * [Cheat Engine](https://cheat-engine.it.malavida.com/android/)
 * [Game Guardian](https://gameguardian.net/forum/)
 * [Lucky Patcher](https://www.luckypatchers.com/download/)
+* [MT Manager](https://apkcombo.com/it/mt-manager/bin.mt.plus/)
+* [APK Editor](https://apk-editor.it.uptodown.com/android)
 # Sites for PC cheats
 * [Cheater Ninja](https://cheater.ninja/)
 * [Gaming Forecast](https://gamingforecast.com/)
@@ -43,3 +47,4 @@
 * [Fling Trainer](https://flingtrainer.com/)
 * [Cheat Happens](https://cheathappens.com/)
 * [WeMod](https://www.wemod.com/)
+* [Memory Hackers](https://memoryhackers.org/)
