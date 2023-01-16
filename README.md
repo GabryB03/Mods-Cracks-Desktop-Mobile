@@ -68,11 +68,13 @@
 * [APK4Fun](https://www.apk4fun.com/)
 * [AllAPK](https://allapk.ru)
 ### Cool modding APKs for your Android phone
+* [Magisk (ROOT YOUR PHONE)](https://github.com/topjohnwu/Magisk/releases)
 * [Cheat Engine](https://cheat-engine.it.malavida.com/android/)
 * [Game Guardian](https://gameguardian.net/forum/)
 * [Lucky Patcher](https://www.luckypatchers.com/download/)
 * [MT Manager](https://apkcombo.com/it/mt-manager/bin.mt.plus/)
 * [APK Editor](https://apkdone.com/apk-editor-pro/)
+* [Shizuku](https://play.google.com/store/apps/details?id=moe.shizuku.privileged.api&hl=it&gl=US)
 ### Cool custom app stores for your Android phone
 * [AuroraOSS](https://auroraoss.com/)
 * [Aptoide](https://it.aptoide.com/)
