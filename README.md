@@ -16,16 +16,33 @@
 * [Full Programlar Indir](https://www.fullprogramlarindir.net/)
 * [Ocean Of Games](http://oceanofgames.com/)
 * [Cracked Games](https://cracked-games.org)
-# Mods for Android
+# Modded socials for Android
 * [WhatsAero](https://whatsaero.com/)
 * [AeroInsta](https://aeroinsta.com/)
 * [AeroWitter](https://aerowitter.com/)
 * [YouTube ReVanced](https://revanced.io/)
 * [XManager (Spotify)](https://xmanagerapp.com/)
-# Mods for PC
+* [Telegram X](https://play.google.com/store/apps/details?id=org.thunderdog.challegram&hl=it&gl=US)
+* [Plus Messenger](https://plusmessenger.org/)
+* [NekoGram](https://nekogram.app/)
+* [OwlGram](https://owlgram.org/)
+* [MDGram](https://play.google.com/store/apps/details?id=org.telegram.mdgram&hl=it&gl=US)
+# Modded browsers for Android
+* [Browser Console](https://eruda.liriliri.io/)
+* [Bromite Browser](https://www.bromite.org/)
+* [Kiwi Browser](https://kiwibrowser.com/)
+* [Puffin Browser](https://allapk.ru/en/66-puffin-browser-pro.html)
+* [Lemur Browser](https://www.lemurbrowser.com/app/en/)
+* [Soul Browser](https://filecr.com/android/soul-browser/?id=178471441350)
+# Modded socials for PC
 * [Kotatogram](https://kotatogram.github.io/)
 * [Unigram](https://github.com/UnigramDev/Unigram/releases/)
+# Modded browsers for PC
+* [Tor Browser](https://www.torproject.org/download/)
+* [Waterfox Browser](https://www.waterfox.net/)
 # Cracks & Mods for Mobile apps
+* [AN1 (Normal)](https://an1.com/)
+* [AN1 (Mods)](https://an1.com/tags/mods/)
 * [BlackMod](https://blackmod.net/forums/3/)
 * [ApkMody](https://apkmody.io/)
 * [PlatinMods](https://platinmods.com/)
@@ -35,11 +52,22 @@
 * [APKVision](https://apkvision.com/games/)
 * [ModYolo](https://modyolo.com/)
 * [ModDroid](https://moddroid.io/)
+* [APKDone](https://apkdone.com/)
+* [APKMirror](https://www.apkmirror.com/)
+* [APKPure](https://apkpure.com/it/)
+* [APK4Fun](https://www.apk4fun.com/)
+* [AllAPK](https://allapk.ru)
+# Cool modding APKs for your Android phone
 * [Cheat Engine](https://cheat-engine.it.malavida.com/android/)
 * [Game Guardian](https://gameguardian.net/forum/)
 * [Lucky Patcher](https://www.luckypatchers.com/download/)
 * [MT Manager](https://apkcombo.com/it/mt-manager/bin.mt.plus/)
-* [APK Editor](https://apk-editor.it.uptodown.com/android)
+* [APK Editor](https://apkdone.com/apk-editor-pro/)
+# Cool custom app stores for your Android phone
+* [AuroraOSS](https://auroraoss.com/)
+* [Aptoide](https://it.aptoide.com/)
+* [TuTuApp](https://tutuapp-vip.com/it/)
+* [Panda Helper](https://panda-helper.org/it/)
 # Sites for PC cheats
 * [Cheater Ninja](https://cheater.ninja/)
 * [Gaming Forecast](https://gamingforecast.com/)
