@@ -27,6 +27,7 @@
 * [NekoGram](https://nekogram.app/)
 * [OwlGram](https://owlgram.org/)
 * [MDGram](https://play.google.com/store/apps/details?id=org.telegram.mdgram&hl=it&gl=US)
+* [BTTV (Twitch)](https://github.com/bttv-android/bttv/releases)
 # Modded browsers for Android
 * [Browser Console](https://eruda.liriliri.io/)
 * [Bromite Browser](https://www.bromite.org/)
@@ -66,8 +67,9 @@
 # Cool custom app stores for your Android phone
 * [AuroraOSS](https://auroraoss.com/)
 * [Aptoide](https://it.aptoide.com/)
-* [TuTuApp](https://tutuapp-vip.com/it/)
-* [Panda Helper](https://panda-helper.org/it/)
+* [TuTuApp](https://www.tutuapp.com/)
+* [Panda Helper](https://pandahelp.vip/)
+* [FDroid](https://f-droid.org/en/)
 # Sites for PC cheats
 * [Cheater Ninja](https://cheater.ninja/)
 * [Gaming Forecast](https://gamingforecast.com/)
