@@ -1,10 +1,13 @@
 # PC Desktop Section
+> If you want a complete list of piracy things, then you can go in this Reddit page: https://www.reddit.com/r/Piracy/wiki/megathread/
 ### Cracks for PC softwares
 * [FileCR](https://filecr.com/)
 * [GetIntoPC](https://getintopc.com/)
 * [4Download](https://4download.net/)
 * [1337xto](https://1337xto.to/)
 * [RLXTech](https://rlxtech.tech)
+* [PeskTop](https://pesktop.com/en/)
+* [MAZTERIZE](https://www.mazterize.com/)
 ### Cracks for PC videogames
 * [Steam Unlocked PRO](https://steamunlocked.pro/)
 * [Steam Unlocked NET](https://steamunlocked.net/)
