@@ -34,6 +34,7 @@
 ### Modded browsers for PC
 * [Tor Browser](https://www.torproject.org/download/)
 * [Waterfox Browser](https://www.waterfox.net/)
+* [LibreWolf Browser](https://librewolf.net/)
 # Mobile Android Section
 ### Modded socials for Android
 * [WhatsAero](https://whatsaero.com/)
