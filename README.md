@@ -1,5 +1,6 @@
 # PC Desktop Section
 > If you want a complete list of piracy things, then you can go in this Reddit page: https://www.reddit.com/r/Piracy/wiki/megathread/
+> For legit non-infected pirated games: https://rentry.co/pgames-mega-thread
 ### Cracks for PC softwares
 * [FileCR](https://filecr.com/)
 * [GetIntoPC](https://getintopc.com/)
