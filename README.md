@@ -22,6 +22,7 @@
 * [Cracked Games](https://cracked-games.org)
 * [Fitgirl Repacks](https://fitgirl-repacks.site/)
 * [CrackWatcher](https://www.crackwatcher.com/)
+* [DODI Repacks](https://dodi-repacks.site/)
 ### Sites for PC cheats
 * [Cheater Ninja](https://cheater.ninja/)
 * [Gaming Forecast](https://gamingforecast.com/)
