@@ -9,6 +9,7 @@
 * [RLXTech](https://rlxtech.tech)
 * [PeskTop](https://pesktop.com/en/)
 * [MAZTERIZE](https://www.mazterize.com/)
+* [Rutor.is](http://rutor.is/)
 ### Cracks for PC videogames
 * [Steam Unlocked PRO](https://steamunlocked.pro/)
 * [Steam Unlocked NET](https://steamunlocked.net/)
