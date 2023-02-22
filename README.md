@@ -110,3 +110,6 @@
 * [Seal](https://f-droid.org/en/packages/com.junkfood.seal/)
 * [ViMusic](https://github.com/vfsfitvnm/ViMusic)
 * [ScreenshotTile](https://github.com/cvzi/ScreenshotTile)
+### Android bloatware removers
+* [Universal Android Debloater](https://github.com/0x192/universal-android-debloater)
+* [Zera0mykerd's BloatRemove](https://github.com/zera0mykerd/BloatRemove)
