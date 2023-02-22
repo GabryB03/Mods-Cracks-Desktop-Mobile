@@ -109,3 +109,4 @@
 * [Anything to PiP (Picture-in-Picture)](https://anything-to-pip.it.uptodown.com/android)
 * [Seal](https://f-droid.org/en/packages/com.junkfood.seal/)
 * [ViMusic](https://github.com/vfsfitvnm/ViMusic)
+* [ScreenshotTile](https://github.com/cvzi/ScreenshotTile)
