@@ -56,6 +56,7 @@
 * [OwlGram](https://owlgram.org/)
 * [MDGram](https://play.google.com/store/apps/details?id=org.telegram.mdgram&hl=it&gl=US)
 * [BTTV (Twitch)](https://github.com/bttv-android/bttv/releases)
+* [Stealth (Reddit)](https://f-droid.org/packages/com.cosmos.unreddit/)
 ### Modded browsers for Android
 * [Browser Console](https://eruda.liriliri.io/)
 * [Bromite Browser](https://www.bromite.org/)
@@ -103,3 +104,8 @@
 * [FossDroid](https://fossdroid.com/)
 * [SkyDroid](https://skydroid.app/)
 * [Accrescent](https://accrescent.app/)
+### General purpose cool applications for your Android phone
+* [AmbientMusicMod](https://github.com/KieronQuinn/AmbientMusicMod)
+* [Anything to PiP (Picture-in-Picture)](https://anything-to-pip.it.uptodown.com/android)
+* [Seal](https://f-droid.org/en/packages/com.junkfood.seal/)
+* [ViMusic](https://github.com/vfsfitvnm/ViMusic)
