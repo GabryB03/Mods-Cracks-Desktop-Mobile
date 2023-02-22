@@ -49,6 +49,7 @@
 * [AeroWitter](https://aerowitter.com/)
 * [YouTube ReVanced](https://revanced.io/)
 * [XManager (Spotify)](https://xmanagerapp.com/)
+* [Spotiflyer](https://spotiflyer.app/)
 * [Telegram X](https://play.google.com/store/apps/details?id=org.thunderdog.challegram&hl=it&gl=US)
 * [Plus Messenger](https://plusmessenger.org/)
 * [NekoGram](https://nekogram.app/)
