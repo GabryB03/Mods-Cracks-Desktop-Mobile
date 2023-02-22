@@ -59,6 +59,7 @@
 ### Modded browsers for Android
 * [Browser Console](https://eruda.liriliri.io/)
 * [Bromite Browser](https://www.bromite.org/)
+* [IceRaven Browser](https://github.com/fork-maintainers/iceraven-browser)
 * [Kiwi Browser](https://kiwibrowser.com/)
 * [Puffin Browser](https://allapk.ru/en/66-puffin-browser-pro.html)
 * [Lemur Browser](https://www.lemurbrowser.com/app/en/)
@@ -88,6 +89,7 @@
 * [MT Manager](https://apkcombo.com/it/mt-manager/bin.mt.plus/)
 * [APK Editor](https://apkdone.com/apk-editor-pro/)
 * [Shizuku](https://play.google.com/store/apps/details?id=moe.shizuku.privileged.api&hl=it&gl=US)
+* [LSPatch](https://github.com/LSPosed/LSPatch)
 ### Cool custom app stores for your Android phone
 * [AuroraOSS](https://auroraoss.com/)
 * [Aptoide](https://it.aptoide.com/)
