@@ -65,6 +65,7 @@
 * [Puffin Browser](https://allapk.ru/en/66-puffin-browser-pro.html)
 * [Lemur Browser](https://www.lemurbrowser.com/app/en/)
 * [Soul Browser](https://filecr.com/android/soul-browser/?id=178471441350)
+* [Fennec F-Droid Browser](https://f-droid.org/en/packages/org.mozilla.fennec_fdroid/)
 ### Cracks & Mods for Mobile apps
 * [AN1 (Normal)](https://an1.com/)
 * [AN1 (Mods)](https://an1.com/tags/mods/)
@@ -118,7 +119,6 @@
 * [Lhotse KWGT](https://play.google.com/store/apps/details?id=lhotsekwgt.kustom.pack)
 * [Room](https://com-app-useup-room.en.uptodown.com/android)
 * [FakeStandby](https://f-droid.org/en/packages/android.jonas.fakestandby/)
-* [Fennec F-Droid](https://f-droid.org/en/packages/org.mozilla.fennec_fdroid/)
 * [scrcpy](https://github.com/Genymobile/scrcpy)
 * [CloudStream](https://github.com/recloudstream/cloudstream)
 * [Fox's Magisk Module Manager](https://github.com/Fox2Code/FoxMagiskModuleManager)
