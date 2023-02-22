@@ -12,6 +12,7 @@
 * [Rutor.is](http://rutor.is/)
 * [Repack.me](https://repack.me/)
 * [Rsload.net](https://rsload.net/)
+* [CyberMania](https://www.cybermania.ws/)
 ### Cracks for PC videogames
 * [Steam Unlocked PRO](https://steamunlocked.pro/)
 * [Steam Unlocked NET](https://steamunlocked.net/)
