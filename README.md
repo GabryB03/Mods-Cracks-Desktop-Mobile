@@ -129,3 +129,4 @@
 * [PrivateLocation](https://f-droid.org/en/packages/com.wesaphzt.privatelocation/)
 * [AdSkip](https://www.mediafire.com/file/toq8nfsnt4zd3ll/adskip-mokoweb.com%25281%2529.apk/file)
 * [TrackerControl](https://f-droid.org/en/packages/net.kollnig.missioncontrol.fdroid/)
+* [Secure Camera](https://play.google.com/store/apps/details?id=app.grapheneos.camera.play&pli=1)
