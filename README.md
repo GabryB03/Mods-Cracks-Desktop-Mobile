@@ -92,6 +92,7 @@
 * [APK Editor](https://apkdone.com/apk-editor-pro/)
 * [Shizuku](https://play.google.com/store/apps/details?id=moe.shizuku.privileged.api&hl=it&gl=US)
 * [LSPatch](https://github.com/LSPosed/LSPatch)
+* [Cheat Droid Pro](https://cheat-droid.it.malavida.com/android/)
 ### Cool custom app stores for your Android phone
 * [AuroraOSS](https://auroraoss.com/)
 * [Aptoide](https://it.aptoide.com/)
