@@ -93,6 +93,7 @@
 * [Shizuku](https://play.google.com/store/apps/details?id=moe.shizuku.privileged.api&hl=it&gl=US)
 * [LSPatch](https://github.com/LSPosed/LSPatch)
 * [Cheat Droid Pro](https://cheat-droid.it.malavida.com/android/)
+* [Hack App Data](https://hack-app-data.it.uptodown.com/android)
 ### Cool custom app stores for your Android phone
 * [AuroraOSS](https://auroraoss.com/)
 * [Aptoide](https://it.aptoide.com/)
