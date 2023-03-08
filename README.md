@@ -38,6 +38,9 @@
 ### Modded socials for PC
 * [Kotatogram](https://kotatogram.github.io/)
 * [Unigram](https://github.com/UnigramDev/Unigram/releases/)
+* [Spicetify (Spotify Modded)](https://spicetify.app/)
+* [Replugged (Discord Modded)](https://replugged.dev/)
+* [OpenAsar (Speeded up Discord)](https://openasar.dev/)
 ### Modded browsers for PC
 * [Tor Browser](https://www.torproject.org/download/)
 * [Waterfox Browser](https://www.waterfox.net/)
