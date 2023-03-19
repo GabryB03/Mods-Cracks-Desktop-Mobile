@@ -50,6 +50,7 @@
 * [WhatsAero](https://whatsaero.com/)
 * [AeroInsta](https://aeroinsta.com/)
 * [AeroWitter](https://aerowitter.com/)
+* [Instander](https://thedise.me/instander/repo/)
 * [YouTube ReVanced](https://revanced.io/)
 * [XManager (Spotify)](https://xmanagerapp.com/)
 * [Spotiflyer](https://spotiflyer.app/)
