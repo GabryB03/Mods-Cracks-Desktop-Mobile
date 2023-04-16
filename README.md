@@ -70,6 +70,8 @@
 * [Lemur Browser](https://www.lemurbrowser.com/app/en/)
 * [Soul Browser](https://filecr.com/android/soul-browser/?id=178471441350)
 * [Fennec F-Droid Browser](https://f-droid.org/en/packages/org.mozilla.fennec_fdroid/)
+* [Chromium Woolyss](https://chromium.woolyss.com/#android)
+* [Mull Browser](https://f-droid.org/en/packages/us.spotco.fennec_dos/)
 ### Cracks & Mods for Mobile apps
 * [AN1 (Normal)](https://an1.com/)
 * [AN1 (Mods)](https://an1.com/tags/mods/)
