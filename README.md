@@ -57,6 +57,7 @@
 * [Telegram X](https://play.google.com/store/apps/details?id=org.thunderdog.challegram&hl=it&gl=US)
 * [Plus Messenger](https://plusmessenger.org/)
 * [NekoGram](https://nekogram.app/)
+* [NekoGram X](https://f-droid.org/it/packages/nekox.messenger/)
 * [OwlGram](https://owlgram.org/)
 * [MDGram](https://play.google.com/store/apps/details?id=org.telegram.mdgram&hl=it&gl=US)
 * [BTTV (Twitch)](https://github.com/bttv-android/bttv/releases)
