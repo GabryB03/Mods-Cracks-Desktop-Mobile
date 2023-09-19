@@ -16,6 +16,7 @@
 ### Cracks for PC videogames
 * [Steam Unlocked PRO](https://steamunlocked.pro/)
 * [Steam Unlocked NET](https://steamunlocked.net/)
+* [AnyGame](https://anygame.net/)
 * [IGG Games](https://igg-games.com/)
 * [Game3RB](https://game3rb.com/)
 * [Online Fix](https://online-fix.me/)
