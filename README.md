@@ -52,6 +52,8 @@
 * [AeroInsta](https://aeroinsta.com/)
 * [AeroWitter](https://aerowitter.com/)
 * [Instander](https://thedise.me/instander/repo/)
+* [InstaThunder](https://www.instamod.net/2021/08/insta-thunder-latest-version-apk.html)
+* [InstaPro](https://www.instamod.net/2021/07/instapro-latest-version-apk-download.html)
 * [YouTube ReVanced](https://revanced.io/)
 * [XManager (Spotify)](https://xmanagerapp.com/)
 * [Spotiflyer](https://spotiflyer.app/)
@@ -63,6 +65,7 @@
 * [MDGram](https://play.google.com/store/apps/details?id=org.telegram.mdgram&hl=it&gl=US)
 * [BTTV (Twitch)](https://github.com/bttv-android/bttv/releases)
 * [Stealth (Reddit)](https://f-droid.org/packages/com.cosmos.unreddit/)
+* [SnapchatPro](https://www.snapchatpro.net/)
 ### Modded browsers for Android
 * [Browser Console](https://eruda.liriliri.io/)
 * [Bromite Browser](https://www.bromite.org/)
