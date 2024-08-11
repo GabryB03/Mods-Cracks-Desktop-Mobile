@@ -2,7 +2,7 @@
 > If you want a complete list of piracy things, then you can go in this Reddit page: https://www.reddit.com/r/Piracy/wiki/megathread/
 > For legit non-infected pirated games: https://rentry.co/pgames-mega-thread
 ### Cracks for PC softwares
-* <b>[FileCR (The best one)](https://filecr.com/)</b>>
+* <b>[FileCR (The best one)](https://filecr.com/)</b>
 * [GetIntoPC](https://getintopc.com/)
 * [4Download](https://4download.net/)
 * [1337xto](https://1337xto.to/)
