@@ -1,6 +1,9 @@
 # PC Desktop Section
 > If you want a complete list of piracy things, then you can go in this Reddit page: https://www.reddit.com/r/Piracy/wiki/megathread/
 > For legit non-infected pirated games: https://rentry.co/pgames-mega-thread
+### General things
+* <b>[Hydra Launcher - Best launcher for cracked apps & games](https://github.com/hydralauncher/hydra/releases)</b>
+* <b>[BabiatoForums - Best site for cracked WordPress plugins](https://babia.to/)</b>
 ### Cracks for PC softwares
 * <b>[FileCR (The best one)](https://filecr.com/)</b>
 * [GetIntoPC](https://getintopc.com/)
